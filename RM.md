@@ -52,7 +52,7 @@ After we trained the model, we get the entire 'event' file, and then we run the 
 
 We go to the site: http://laptop-t8vk69p8:6006 as shown in the terminal. Below is what tools we could use as defined in the Tensorflow object.
 
-![1535722903837](C:\Users\11198\AppData\Local\Temp\1535722903837.png)
+![](G:\deeplearning\Keras\Fashion-MNIST-with-Keras\image1.JPG)
 
 
 
@@ -171,6 +171,6 @@ We go to the site: http://laptop-t8vk69p8:6006 as shown in the terminal.
 
 Then we could get one more tool:
 
-![1535724042210](C:\Users\11198\AppData\Local\Temp\1535724042210.png)
+![](G:\deeplearning\Keras\Fashion-MNIST-with-Keras\image2.JPG)
 
 We could use T-SNE or PCA to actually view the data which is coolest part I think in this tutorial. 
